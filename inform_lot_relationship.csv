@@ -1,0 +1,5 @@
+UPK_key,finalreportdate,cancer_category,new_cancer_category,gene_alt_name_consolidated,Product,alteration,L1_Regimen,L1_Start_Date,L1_End_Date,L2_Regimen,L2_Start_Date,L2_End_Date
+P001,2021-01-15,NSCLC,NSCLC,EGFR,Guardant360,Exon 19 Deletion,Cisplatin,2020-10-15,2020-12-01,Osimertinib,2021-01-10,2021-03-01
+P002,2021-02-10,NSCLC,NSCLC,EGFR,Guardant360,Exon 19 Deletion,Carboplatin+Pemetrexed,2020-11-01,2020-12-20,Osimertinib,2021-01-20,2021-04-01
+P013,2020-11-05,NSCLC,NSCLC,EGFR,Guardant360,Exon 19 Deletion,Cisplatin,2020-10-15,2020-12-10,Osimertinib,2021-01-05,2021-02-28
+P017,2021-01-10,NSCLC,NSCLC,EGFR,Guardant360,Exon 19 Deletion,Cisplatin,2020-11-01,2020-12-20,Osimertinib,2021-01-25,2021-03-20
