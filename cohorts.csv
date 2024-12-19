@@ -1,0 +1,4 @@
+cohort_key,cohort_name,cancer_category,gene,g360_timing,lot,alteration,regimen,user,Count_of_Upk_keys
+C001,NSCLC_EGFR_Ex19Deletion_Osim_L2,NSCLC,EGFR,WITHIN 90 DAYS BEFORE TREATMENT,2,Exon 19 Deletion,Osimertinib,admin,4
+C002,NSCLC_ALK_EML4ALK_Criz_L1,NSCLC,ALK,ANY,1,EML4-ALK Fusion,Crizotinib,researcher,4
+C003,NSCLC_KRAS_G12C_Sotorasib,NSCLC,KRAS,ANY,1,G12C,Sotorasib,admin,4
